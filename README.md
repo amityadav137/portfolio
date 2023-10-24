@@ -8,5 +8,5 @@ Working on Template.
 When S3 bucket was public and static site was enabled, the site was working fine. This was just for testing purpose.
 I disabled this settings and only CloudFront url was working rather than my domain name. I was facing this since yesterday (10-23-2023).
 
-
+I resolved the issue on 10-24-2023. My domain is accessible.
 
