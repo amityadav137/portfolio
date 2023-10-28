@@ -10,3 +10,7 @@ I disabled this settings and only CloudFront url was working rather than my doma
 
 I resolved the issue on 10-24-2023. My domain is accessible.
 
+Implemented API Gateways.
+
+Poject Done.
+
